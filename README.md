@@ -59,7 +59,7 @@ python src/kmeans_clustering.py
 
 ### 🗂️ Project Structure
 
-mall-customer-segmentation/
+```mall-customer-segmentation/
 ├── data/
 │   └── Mall_Customers.csv
 ├── src/
@@ -69,6 +69,7 @@ mall-customer-segmentation/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ### 📌 Future Improvements
 Use PCA for dimensionality reduction
